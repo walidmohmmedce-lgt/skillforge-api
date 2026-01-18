@@ -32,6 +32,11 @@ It reflects real-world patterns used in:
 
 ---
 
+## 📸 API Preview (Swagger)
+
+![Swagger UI](SkillForgeSwagger.png)
+
+
 ## ✨ Core Features
 
 - Skill trees (e.g. ".NET Backend Roadmap")  
